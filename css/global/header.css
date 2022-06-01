@@ -1,0 +1,29 @@
+.header-bg {
+  background-color: #000;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 20px 40px;
+}
+
+.header-menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-menu a {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #e2e0df;
+}
+
+.header-menu a:hover {
+  color: #fff9f9;
+  border-bottom: 2px solid #fff9f9;
+}

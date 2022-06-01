@@ -1,0 +1,10 @@
+.banner-bg {
+  background-color: #504b4b;
+}
+
+.banner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
