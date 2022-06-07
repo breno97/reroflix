@@ -1,0 +1,21 @@
+.terror-bg {
+  background: #504b4b;
+}
+
+.terror {
+  padding-top: 20px;
+}
+
+.terror-img {
+  display: flex;
+  flex: 1;
+}
+
+.terror-img img {
+  padding: 5px;
+}
+
+.terror-texto h1,
+p {
+  padding-bottom: 5px;
+}

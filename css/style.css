@@ -9,3 +9,5 @@
 
 /*home*/
 @import "./home/banner.css";
+@import "./home/top.css";
+@import "./home/terror.css";

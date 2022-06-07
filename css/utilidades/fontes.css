@@ -2,6 +2,18 @@
   font: 500 6rem/1 "Bebas Neue", cursive;
 }
 
-.f-p {
+.f-t-v {
+  font: 500 5rem/1 "Bebas Neue", cursive;
+}
+
+.f-t-p {
+  font: bold 2.5rem/1 "PT Sans", sans-serif;
+}
+
+.f-p-p {
   font: 400 1.25rem/1.5 "PT Sans", sans-serif;
+}
+
+.f-p-m {
+  font: 400 1.5rem/1.5 "PT Sans", sans-serif;
 }

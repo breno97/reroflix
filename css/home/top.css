@@ -1,0 +1,29 @@
+.top-bg {
+  background: #000;
+}
+
+.top {
+  padding: 20px 0px;
+}
+
+.top h1 {
+  letter-spacing: 8px;
+}
+
+.top-lista {
+  display: flex;
+  flex-wrap: wrap;
+  border-top: 7px solid var(--cor-1);
+  flex: 1;
+  justify-content: space-between;
+}
+
+.top-item {
+  display: flex;
+  padding-top: 15px;
+}
+
+.top-item h2 {
+  font: bold 10rem/1 "Bebas Neue", cursive;
+  color: var(--cor-1);
+}
